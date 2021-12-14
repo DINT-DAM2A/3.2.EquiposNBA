@@ -1,0 +1,10 @@
+2. Diseñar la interfaz de usuario de una aplicación que muestre los quintetos
+iniciales de dos equipos de la NBA siguiendo las siguientes indicaciones:
+• Únicamente se pueden utilizar paneles de tipo StackPanel y WrapPanel.
+• La interfaz debe comportarse al redimensionar la ventana como en el
+ejecutable suministrado. Prestad atención a todos los elementos de la
+aplicación.
+• Los textos tienen un tamaño de fuente de 30 y están en negrita.
+• El borde que rodea a cada equipo es de color negro, tiene un grosor de 3 y
+un borde redondeado con radio 3.
+Nombre del proyecto: EquiposNBA
